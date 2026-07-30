@@ -160,8 +160,6 @@ A total of **22 business analysis queries** were executed.
 
 ---
 
-## 👤 Author
+## Author
 
 **Utkarsh Kumar Yadubanshi**
-
-GitHub: https://github.com/Utkarsh-Yadav-0000
