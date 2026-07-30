@@ -123,7 +123,7 @@ A total of **22 business analysis queries** were executed.
 
 ![Profit by Region](Images/Total_Profit_by_Region.png)
 
-### Customers with more than 5k contribution in Total Profit
+### Customers with Proft > 5k
 
 ![Customers more than 5k Proft](Images/Customers_profit_5000_above.png)
 
@@ -155,6 +155,7 @@ A total of **22 business analysis queries** were executed.
 ## Dataset
 
 **Dataset:** Sample Superstore Dataset
+
 **Source:** https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ---
