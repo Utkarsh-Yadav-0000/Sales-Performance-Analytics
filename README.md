@@ -2,11 +2,11 @@
 
 An end-to-end data analytics project that analyzes sales performance using **MySQL** and presents key business insights through an **interactive Excel dashboard**.
 
-The project demonstrates the complete analytics workflow—from data preparation and SQL-based business analysis to dashboard visualization—using the **Sample Superstore** dataset.
+The project demonstrates the complete analytics workflow—from data preparation and SQL-based business analysis to dashboard visualization using the **Sample Superstore** dataset.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The objective of this project is to analyze sales data to identify trends, evaluate business performance, and generate actionable insights.
 
@@ -117,7 +117,15 @@ A total of **22 business analysis queries** were executed.
 
 ### Monthly Sales Trend
 
-![Monthly Sales Trend](Images/query2.png)
+![Monthly Sales Trend](Images/Monthly_Sales_Trend.png)
+
+### Total Profit by Region
+
+![Profit by Region](Images/Total_Profit_by_Region.png)
+
+### Customers with more than 5k contribution in Total Profit
+
+![Customers more than 5k Proft](Images/Customers_profit_5000_above.png)
 
 ---
 
